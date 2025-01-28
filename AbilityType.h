@@ -1,0 +1,10 @@
+#ifndef SEAFIGHT__ABILITYTYPE_H_
+#define SEAFIGHT__ABILITYTYPE_H_
+
+enum class AbilityType {
+    DOUBLE_DAMAGE,
+    SCANNER,
+    DAMAGE,
+};
+
+#endif//SEAFIGHT__ABILITYTYPE_H_
